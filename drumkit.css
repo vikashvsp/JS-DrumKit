@@ -43,3 +43,10 @@ kbd {
     letter-spacing: .1rem;
     color: #ffc600;
 }
+.copyright{
+    position: absolute;
+    top:65%;
+    font-size: 1.5rem;
+    color: black;
+    text-shadow: 0 0 .1rem black;
+}
